@@ -1,0 +1,27 @@
+{
+  "name": "color-theme-terminal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivette03/color-theme-terminal.git"
+  },
+  "keywords": [],
+  "author": "Ivette < iacascante@est.istg.edu.ec>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivette03/color-theme-terminal/issues"
+  },
+  "homepage": "https://github.com/ivette03/color-theme-terminal#readme",
+  "bin": {
+    "color-theme-terminal": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
